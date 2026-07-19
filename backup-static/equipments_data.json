@@ -1,0 +1,352 @@
+[
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-lungs",
+    "badge": "Best Seller",
+    "title": "Oxygen Concentrator (5L / 10L)",
+    "desc": "High-purity continuous oxygen flow machines from top brands (Philips, Nidek) for critical respiratory support.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Oxygen%20Concentrator."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-wind",
+    "badge": "Emergency",
+    "title": "Oxygen Cylinder",
+    "desc": "Portable and large-sized medical oxygen cylinders with flowmeter, key, and mask for emergency back-up.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Oxygen%20Cylinder."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-head-side-mask",
+    "badge": "Standard",
+    "title": "BiPAP Machine",
+    "desc": "Non-invasive two-level positive airway pressure ventilation devices for respiratory support.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20BiPAP%20Machine."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-head-side-mask",
+    "badge": "Sleep Care",
+    "title": "CPAP Machine",
+    "desc": "Continuous positive airway pressure machines to treat sleep apnea and sleep-related breathing disorders.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20CPAP%20Machine."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-lungs",
+    "badge": "Critical Care",
+    "title": "ICU-Grade Ventilator",
+    "desc": "Advanced respiration support ventilators for critical ICU setup patients at home.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Ventilator."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-wind",
+    "badge": "Standard",
+    "title": "Nebulizer Machine",
+    "desc": "Highly portable compressor nebulizer systems for liquid medication inhalation therapy.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Nebulizer%20Machine."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-pump-medical",
+    "badge": "Standard",
+    "title": "Suction Machine",
+    "desc": "High-power medical phlegm suction pumps (single/double jar) for clearing patient airways.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Suction%20Machine."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-fingerprint",
+    "badge": "Compact",
+    "title": "Pulse Oximeter",
+    "desc": "Fingertip SpO2 pulse oximeters to accurately track oxygen saturation and heart rates instantly.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Pulse%20Oximeter."
+  },
+  {
+    "category": "respiratory",
+    "iconClass": "fa-solid fa-head-side-mask",
+    "badge": "High Flow",
+    "title": "HFNC Machine",
+    "desc": "High Flow Nasal Cannula oxygen therapy machines for delivery of heated and humidified respiratory gas.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20HFNC%20Machine."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-chart-line",
+    "badge": "ICU Care",
+    "title": "Multipara Vitals Monitor",
+    "desc": "Real-time parameters monitoring (ECG, SpO2, NIBP, Respiration, Temp) on a bright digital screen.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Multipara%20Monitor."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-heart-pulse",
+    "badge": "Heart Care",
+    "title": "Cardiac Monitor",
+    "desc": "Continuous cardiac activity monitoring and pulse tracking system for heart patients at home.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Cardiac%20Monitor."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-syringe",
+    "badge": "Precision",
+    "title": "Syringe Pump",
+    "desc": "Microfluidic syringe pump for precise, low-dose medication delivery at accurate intervals.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Syringe%20Pump."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-pump-medical",
+    "badge": "Standard",
+    "title": "Infusion Pump / Machine",
+    "desc": "Continuous intravenous fluid and nutrition delivery systems for patient recovery.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Infusion%20Pump."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-compress",
+    "badge": "Recovery",
+    "title": "DVT Pump",
+    "desc": "Deep vein thrombosis prevention compression pump with leg/calf sleeves to assist blood flow.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20DVT%20Pump."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-bolt",
+    "badge": "Emergency",
+    "title": "Defibrillator (AED)",
+    "desc": "External cardiac shock devices for resuscitation in case of life-threatening arrhythmias.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Defibrillator."
+  },
+  {
+    "category": "monitoring",
+    "iconClass": "fa-solid fa-heart-pulse",
+    "badge": "Standard",
+    "title": "ECG Machine",
+    "desc": "Multi-channel digital electrocardiogram recorder to test heart activity and rhythm patterns.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20ECG%20Machine."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-bed",
+    "badge": "Standard",
+    "title": "Manual Hospital Bed",
+    "desc": "Double-crank manual patient bed to adjust headrest and knee-rest angles with collapsible side guards.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Manual%20Hospital%20Bed."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-bed",
+    "badge": "Multi-Function",
+    "title": "Fowler Bed",
+    "desc": "Adjustable fowler patient bed with backrest, leg-rest, and Trendelenburg adjustments.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Fowler%20Bed."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-bed-pulse",
+    "badge": "Premium",
+    "title": "ICU Electric Bed",
+    "desc": "3 to 5 function electric ICU bed with remote control, side panels, head/foot adjustments, and height control.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20ICU%20Electric%20Bed."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-bed",
+    "badge": "Comfort",
+    "title": "Motorized Recliner Bed",
+    "desc": "Adjustable recliner beds for recovery patients needing orthopedic and back-rest positioning.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Motorized%20Recliner%20Bed."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-wheelchair",
+    "badge": "Mobility",
+    "title": "Foldable Wheelchair",
+    "desc": "Comfortable foldable wheelchairs (manual/commode types) for indoor/outdoor patient transport.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Wheelchair."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-person-walking-with-cane",
+    "badge": "Support",
+    "title": "Patient Walker",
+    "desc": "Adjustable aluminum folding walkers for post-operative and elderly mobility support.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Patient%20Walker."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-chair",
+    "badge": "Hygiene",
+    "title": "Commode Chair",
+    "desc": "Portable height-adjustable commode chairs with comfortable armrests for patient utility.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Commode%20Chair."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-circle-nodes",
+    "badge": "Skin Care",
+    "title": "Air Mattress (Bubble)",
+    "desc": "Alternating pressure bubble mattresses with motor pump for prevention and treatment of bedsores.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Air%20Mattress."
+  },
+  {
+    "category": "beds",
+    "iconClass": "fa-solid fa-arrows-up-down",
+    "badge": "Heavy Duty",
+    "title": "Patient Lift",
+    "desc": "Hydraulic and electric patient transfer lifts with sling harness for safe bedroom transport.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Patient%20Lift."
+  },
+  {
+    "category": "elderly",
+    "iconClass": "fa-solid fa-pump-medical",
+    "badge": "Nutrition",
+    "title": "Feeding Pump",
+    "desc": "Enteral feeding pumps for continuous or intermittent nutritional flow to gastrointestinal tracts.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Feeding%20Pump."
+  },
+  {
+    "category": "elderly",
+    "iconClass": "fa-solid fa-chair",
+    "badge": "Comfort",
+    "title": "Recliner Chair",
+    "desc": "Orthopedic recliner chairs for comfortable post-op recovery and elderly relaxation.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Recliner%20Chair."
+  },
+  {
+    "category": "elderly",
+    "iconClass": "fa-solid fa-bed",
+    "badge": "Standard",
+    "title": "Adjustable Back Rest",
+    "desc": "Portable metal/fabric back support frame to convert standard beds into backrest-adjustable systems.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Adjustable%20Back%20Rest."
+  },
+  {
+    "category": "elderly",
+    "iconClass": "fa-solid fa-child",
+    "badge": "Orthopedic",
+    "title": "Traction Equipment",
+    "desc": "Cervical & Pelvic traction kits for relief from neck, spinal cord, and muscle spasms.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20Traction%20Equipment."
+  },
+  {
+    "category": "elderly",
+    "iconClass": "fa-solid fa-accessibility",
+    "badge": "Rehab",
+    "title": "Physiotherapy Equipment",
+    "desc": "TENS machines, muscle stimulators, ultrasound therapy gears, and exercise weights for active rehab.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Physiotherapy%20Equipment."
+  },
+  {
+    "category": "setup",
+    "iconClass": "fa-solid fa-lungs",
+    "badge": "Hygiene",
+    "title": "Tracheostomy Care Setup",
+    "desc": "Complete sanitization, inner cannula, suction tubes, and dressing kit for tracheostomy care.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20Tracheostomy%20Care%20Setup."
+  },
+  {
+    "category": "setup",
+    "iconClass": "fa-solid fa-pump-medical",
+    "badge": "Emergency",
+    "title": "Portable Suction Setup",
+    "desc": "Compact, battery-operated and AC powered mobile suction machine for emergency phlegm removal.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Portable%20Suction%20Setup."
+  },
+  {
+    "category": "setup",
+    "iconClass": "fa-solid fa-wind",
+    "badge": "Combo",
+    "title": "Complete Oxygen Setup",
+    "desc": "Full setup containing oxygen concentrator flow machines + emergency cylinders + canula pipes.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Complete%20Oxygen%20Setup."
+  },
+  {
+    "category": "setup",
+    "iconClass": "fa-solid fa-kit-medical",
+    "badge": "Emergency",
+    "title": "Emergency Medical Kit",
+    "desc": "Airway management sets, emergency drugs, syringes, bandages, and vital accessories setup.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Emergency%20Medical%20Kit."
+  },
+  {
+    "category": "setup",
+    "iconClass": "fa-solid fa-house-medical",
+    "badge": "Ultimate Combo",
+    "title": "Full Home ICU Setup Combo",
+    "desc": "Complete setup: Electric ICU Bed + Multi-para Vitals Monitor + ICU-grade Ventilator + Syringe Pumps.",
+    "priceVal": "Rent & Sale",
+    "phone": "8690888306",
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Full%20Home%20ICU%20Setup%20Combo."
+  }
+]

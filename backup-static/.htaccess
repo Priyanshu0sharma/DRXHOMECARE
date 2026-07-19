@@ -1,0 +1,7 @@
+# Force redirect index.html to root / for optimal SEO and duplicate content prevention
+RewriteEngine On
+RewriteBase /
+
+# Redirect index.html to the clean root domain
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
+RewriteRule ^index\.html$ https://drxhomecare.com/ [R=301,L]

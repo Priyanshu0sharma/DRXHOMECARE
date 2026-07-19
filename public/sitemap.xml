@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://drxhomecare.com/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Equipments Catalog -->
+  <url>
+    <loc>https://drxhomecare.com/equipments</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Digital Card -->
+  <url>
+    <loc>https://drxhomecare.com/card</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- Service: ICU Setup -->
+  <url>
+    <loc>https://drxhomecare.com/services/icu-at-home</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Nursing Care -->
+  <url>
+    <loc>https://drxhomecare.com/services/nursing-care</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Caretaker -->
+  <url>
+    <loc>https://drxhomecare.com/services/caretaker</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Elder Care -->
+  <url>
+    <loc>https://drxhomecare.com/services/elder-care</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Doctor Visit -->
+  <url>
+    <loc>https://drxhomecare.com/services/doctor-visit</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Lab Test -->
+  <url>
+    <loc>https://drxhomecare.com/services/lab-test</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Medical Equipment -->
+  <url>
+    <loc>https://drxhomecare.com/services/medical-equipment</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Ambulance -->
+  <url>
+    <loc>https://drxhomecare.com/services/ambulance</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Physiotherapy -->
+  <url>
+    <loc>https://drxhomecare.com/services/physiotherapy</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Injection Services -->
+  <url>
+    <loc>https://drxhomecare.com/services/injection-services</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: IV Infusion -->
+  <url>
+    <loc>https://drxhomecare.com/services/iv-infusion</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Wound Dressing -->
+  <url>
+    <loc>https://drxhomecare.com/services/wound-dressing</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Service: Bedridden Care -->
+  <url>
+    <loc>https://drxhomecare.com/services/bedridden-care</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
