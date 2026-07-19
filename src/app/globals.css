@@ -269,7 +269,7 @@ button {
 }
 
 .header.scrolled {
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(11, 25, 41, 0.95);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   box-shadow: var(--shadow-sm);
@@ -319,7 +319,7 @@ button {
 }
 
 .header.scrolled .header__logo-text {
-  color: var(--text-dark);
+  color: var(--text-white);
 }
 
 .header.scrolled .header__logo-text small {
@@ -359,7 +359,7 @@ button {
 }
 
 .header.scrolled .header__nav a {
-  color: var(--text-medium);
+  color: rgba(255, 255, 255, 0.85);
 }
 
 .header.scrolled .header__nav a:hover {
