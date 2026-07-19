@@ -2930,7 +2930,7 @@ button {
 
 /* ==================== EMEDDED EQUIPMENTS CATALOG STYLES ==================== */
     /* Design Tokens */
-    :root {
+    .catalog {
       --primary-color: #0A6ABF;
       --secondary-color: #0ea5e9;
       --accent-color: #00A859;
