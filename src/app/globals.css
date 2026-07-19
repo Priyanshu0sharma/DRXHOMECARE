@@ -2995,15 +2995,15 @@ button {
       color: #38bdf8;
     }
 
-    /* Section Header Updates */
-    .section-header .section-title {
+    /* Section Header Updates (Scoped to catalog) */
+    .catalog .section-header .section-title {
       color: #ffffff !important;
     }
-    .section-header .section-title em {
+    .catalog .section-header .section-title em {
       color: var(--secondary-color);
       font-style: normal;
     }
-    .section-header .section-desc {
+    .catalog .section-header .section-desc {
       color: var(--text-light) !important;
     }
     
