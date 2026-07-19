@@ -9,7 +9,7 @@ export default function ScrollRevealInit() {
   useEffect(() => {
     // Select all reveal elements in the document
     const revealElements = document.querySelectorAll(
-      ".reveal, .reveal-left, .reveal-right, .reveal-scale"
+      ".reveal, .reveal-left, .reveal-right, .reveal-scale, .stagger-children"
     );
 
     const revealObserver = new IntersectionObserver(
