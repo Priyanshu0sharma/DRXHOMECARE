@@ -204,9 +204,11 @@ button {
   transition: visibility 0.8s ease;
 }
 
+.preloader.fade-content,
+.preloader.slide-up,
 .preloader.hidden {
   visibility: hidden;
-  pointer-events: none;
+  pointer-events: none !important;
   display: none !important;
 }
 

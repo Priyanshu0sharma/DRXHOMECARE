@@ -8,29 +8,36 @@ export default function Preloader() {
   const [hidden, setHidden] = useState(false);
 
   useEffect(() => {
-    // Stage 1: Wait 400ms, then fade content (logo and text)
+    // Stage 1: Fade content quickly (150ms)
     const timer1 = setTimeout(() => {
       setFadeContent(true);
-    }, 450);
+    }, 150);
 
-    // Stage 2: Wait 650ms, then trigger panels staircase slide up
+    // Stage 2: Trigger panels slide up (300ms)
     const timer2 = setTimeout(() => {
       setSlideUp(true);
       document.body.classList.remove("loading");
-    }, 700);
+    }, 300);
 
-    // Stage 3: Wait 1500ms, completely hide preloader from DOM
+    // Stage 3: Completely hide preloader from DOM (600ms)
     const timer3 = setTimeout(() => {
       setHidden(true);
-    }, 1550);
+    }, 600);
 
-    // Lock body scroll during preloader
+    // Failsafe: Guarantee preloader disappears within 700ms max under all conditions
+    const timer4 = setTimeout(() => {
+      setHidden(true);
+      document.body.classList.remove("loading");
+    }, 700);
+
+    // Lock body scroll during preloader briefly
     document.body.classList.add("loading");
 
     return () => {
       clearTimeout(timer1);
       clearTimeout(timer2);
       clearTimeout(timer3);
+      clearTimeout(timer4);
       document.body.classList.remove("loading");
     };
   }, []);

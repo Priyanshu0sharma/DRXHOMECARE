@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Run interval silently in the background in milliseconds
   const preloaderInterval = setInterval(() => {
-    progress += Math.random() * 8 + 4;
+    progress += 25;
     if (progress > 100) progress = 100;
 
     if (progress >= 100) {
@@ -25,14 +25,22 @@ document.addEventListener('DOMContentLoaded', () => {
         preloader.classList.add('slide-up');
         document.body.classList.remove('loading');
         triggerHeroAnimations();
-      }, 250);
+      }, 150);
 
       // Step 3: Completely disable preloader overlay when slide ends
       setTimeout(() => {
         preloader.classList.add('hidden');
-      }, 1100);
+      }, 400);
     }
-  }, 16);
+  }, 10);
+
+  // Failsafe: Ensure preloader never hangs under any conditions
+  setTimeout(() => {
+    if (preloader && !preloader.classList.contains('hidden')) {
+      preloader.classList.add('fade-content', 'slide-up', 'hidden');
+      document.body.classList.remove('loading');
+    }
+  }, 500);
 
   function triggerHeroAnimations() {
     // Animate hero elements that depend on preloader completion
