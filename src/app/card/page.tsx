@@ -442,7 +442,7 @@ export default function DigitalCardPage() {
 
               {/* 💬 WhatsApp */}
               <a
-                href="https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20enquire%20about%20your%20services."
+                href="https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20enquire%20about%20your%20services."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="card-capsule anim-right"

@@ -45,7 +45,7 @@ const medicalBusinessSchema = {
     "@type": "AdministrativeArea",
     "name": "Jaipur",
   },
-  "sameAs": ["https://api.whatsapp.com/send?phone=919352286423"],
+  "sameAs": ["https://api.whatsapp.com/send?phone=918690661559"],
 };
 
 // 2. FAQ Page Schema Object
@@ -175,7 +175,7 @@ export default function HomePage() {
                   Call Now — 7568858357
                 </a>
                 <a
-                  href="https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20healthcare%20services."
+                  href="https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20healthcare%20services."
                   className="btn-outline"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -738,7 +738,7 @@ export default function HomePage() {
               Call 7568858357
             </a>
             <a
-              href="https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20urgent%20healthcare%20services."
+              href="https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20urgent%20healthcare%20services."
               className="btn-glass"
               target="_blank"
               rel="noopener noreferrer"

@@ -22,7 +22,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "High-purity continuous oxygen flow machines from top brands (Philips, Nidek) for critical respiratory support.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Oxygen%20Concentrator."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Oxygen%20Concentrator."
   },
   {
     "category": "respiratory",
@@ -32,7 +32,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Portable and large-sized medical oxygen cylinders with flowmeter, key, and mask for emergency back-up.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Oxygen%20Cylinder."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Oxygen%20Cylinder."
   },
   {
     "category": "respiratory",
@@ -42,7 +42,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Non-invasive two-level positive airway pressure ventilation devices for respiratory support.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20BiPAP%20Machine."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20BiPAP%20Machine."
   },
   {
     "category": "respiratory",
@@ -52,7 +52,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Continuous positive airway pressure machines to treat sleep apnea and sleep-related breathing disorders.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20CPAP%20Machine."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20CPAP%20Machine."
   },
   {
     "category": "respiratory",
@@ -62,7 +62,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Advanced respiration support ventilators for critical ICU setup patients at home.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Ventilator."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Ventilator."
   },
   {
     "category": "respiratory",
@@ -72,7 +72,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Highly portable compressor nebulizer systems for liquid medication inhalation therapy.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Nebulizer%20Machine."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Nebulizer%20Machine."
   },
   {
     "category": "respiratory",
@@ -82,7 +82,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "High-power medical phlegm suction pumps (single/double jar) for clearing patient airways.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Suction%20Machine."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Suction%20Machine."
   },
   {
     "category": "respiratory",
@@ -92,7 +92,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Fingertip SpO2 pulse oximeters to accurately track oxygen saturation and heart rates instantly.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Pulse%20Oximeter."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Pulse%20Oximeter."
   },
   {
     "category": "respiratory",
@@ -102,7 +102,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "High Flow Nasal Cannula oxygen therapy machines for delivery of heated and humidified respiratory gas.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20HFNC%20Machine."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20HFNC%20Machine."
   },
   {
     "category": "monitoring",
@@ -112,7 +112,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Real-time parameters monitoring (ECG, SpO2, NIBP, Respiration, Temp) on a bright digital screen.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Multipara%20Monitor."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Multipara%20Monitor."
   },
   {
     "category": "monitoring",
@@ -122,7 +122,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Continuous electrocardiography monitoring units to record heart rhythms and vitals for cardiac patients.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Cardiac%20Monitor."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Cardiac%20Monitor."
   },
   {
     "category": "monitoring",
@@ -132,7 +132,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Highly accurate micro-processor controlled syringe pumps to deliver precise fluid volumes/medication.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Syringe%20Pump."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Syringe%20Pump."
   },
   {
     "category": "monitoring",
@@ -142,7 +142,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Advanced volumetric infusion pumps to administer controlled amounts of medical fluids intravenously.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Infusion%20Pump."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Infusion%20Pump."
   },
   {
     "category": "monitoring",
@@ -152,7 +152,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Intermittent pneumatic compression pumps and sleeves to prevent deep vein thrombosis in bedridden patients.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20DVT%20Pump."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20DVT%20Pump."
   },
   {
     "category": "monitoring",
@@ -162,7 +162,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Portable clinical external defibrillators to deliver therapeutic shock for cardiac arrest emergencies.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Defibrillator."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Defibrillator."
   },
   {
     "category": "monitoring",
@@ -172,7 +172,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Portable multi-channel electrocardiograph machines to record cardiac electrical activity at home.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20ECG%20Machine."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20ECG%20Machine."
   },
   {
     "category": "beds",
@@ -182,7 +182,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Standard clinic-grade manual mechanical hospital beds with adjustable backrest and leg elevations.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Manual%20Hospital%20Bed."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Manual%20Hospital%20Bed."
   },
   {
     "category": "beds",
@@ -192,7 +192,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Multi-position ergonomic manual fowler beds with side railings and saline stand provisions.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Fowler%20Bed."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Fowler%20Bed."
   },
   {
     "category": "beds",
@@ -202,7 +202,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Fully motorized remote-controlled hospital beds for back, leg, height, trendelenburg alignments.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20ICU%20Electric%20Bed."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20ICU%20Electric%20Bed."
   },
   {
     "category": "beds",
@@ -212,7 +212,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Home-style motorized recliner beds for patients requiring simple head/leg lift support.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Motorized%20Recliner."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Motorized%20Recliner."
   },
   {
     "category": "beds",
@@ -222,7 +222,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Lightweight, heavy-duty foldable patient wheelchairs (manual/electric models available).",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Wheelchair."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Wheelchair."
   },
   {
     "category": "beds",
@@ -232,7 +232,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Sturdy height-adjustable folding walkers (standard/wheels model) to support daily mobility.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Patient%20Walker."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Patient%20Walker."
   },
   {
     "category": "beds",
@@ -242,7 +242,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Highly portable, foldable bedside commode chairs with removable waste buckets for senior care.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Commode%20Chair."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Commode%20Chair."
   },
   {
     "category": "beds",
@@ -252,7 +252,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Alternating pressure bubble air pads with electric pumps to actively prevent bedsores.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Air%20Mattress."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Air%20Mattress."
   },
   {
     "category": "beds",
@@ -262,7 +262,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Hydraulic or electric patient hoist lifts to safely transfer bedridden patients to chairs/washrooms.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Patient%20Lift."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Patient%20Lift."
   },
   {
     "category": "elderly",
@@ -272,7 +272,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Electronic enteral nutrition feeding pumps for precise nutrition administration to critical care patients.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Feeding%20Pump."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Feeding%20Pump."
   },
   {
     "category": "elderly",
@@ -282,7 +282,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Comfortable medical recliner chairs to assist senior citizens with easy sitting and standing postures.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Recliner%20Chair."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Recliner%20Chair."
   },
   {
     "category": "elderly",
@@ -292,7 +292,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Portable metal-framed backrests with mesh support to place on standard beds for upright seating support.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Adjustable%20Back%20Rest."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Adjustable%20Back%20Rest."
   },
   {
     "category": "elderly",
@@ -302,7 +302,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Cervical and lumbar traction kits to help relieve neck and back pain at home under professional guidance.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Traction%20Equipment."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Traction%20Equipment."
   },
   {
     "category": "elderly",
@@ -312,7 +312,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "TENS, muscle stimulator, and ultrasound units for pain relief and rehabilitation exercises at home.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20Physiotherapy%20Equipment."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20Physiotherapy%20Equipment."
   },
   {
     "category": "setup",
@@ -322,7 +322,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Complete sanitization, inner cannula, suction tubes, and dressing kit for tracheostomy care.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Tracheostomy%20Care%20Setup."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Tracheostomy%20Care%20Setup."
   },
   {
     "category": "setup",
@@ -332,7 +332,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Suction catheters, connectors, jar filters, and suction pumps for clinical phlegm management.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Portable%20Suction%20Setup."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20want%20to%20rent%2Fbuy%20Portable%20Suction%20Setup."
   },
   {
     "category": "setup",
@@ -342,7 +342,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Nasal cannula, nebulizer mask, oxygen flowmeter, key, and high-purity cylinder setup combos.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Complete%20Oxygen%20Setup."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Complete%20Oxygen%20Setup."
   },
   {
     "category": "setup",
@@ -352,7 +352,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "BVM Resuscitator (Ambu bag), pulse oximeter, blood pressure monitor, and emergency medication box.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Emergency%20Medical%20Kit."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20an%20Emergency%20Medical%20Kit."
   },
   {
     "category": "setup",
@@ -362,7 +362,7 @@ const equipmentsData: EquipmentItem[] = [
     "desc": "Electric ICU bed, multipara monitor, oxygen concentrator, ventilator or BiPAP, syringe pump, and DVT pump.",
     "priceVal": "Rent & Sale",
     "phone": "8690888306",
-    "whatsappUrl": "https://api.whatsapp.com/send?phone=919352286423&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Full%20Home%20ICU%20Setup%20Combo."
+    "whatsappUrl": "https://api.whatsapp.com/send?phone=918690661559&text=Hello%20DRx%20Home%20Care%2C%20I%20need%20a%20Full%20Home%20ICU%20Setup%20Combo."
   }
 ];
 

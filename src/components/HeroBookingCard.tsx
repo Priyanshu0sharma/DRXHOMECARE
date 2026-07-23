@@ -30,7 +30,7 @@ export default function HeroBookingCard() {
       `*Condition/Details:* ${patientDetails}`;
 
     const encodedText = encodeURIComponent(messageText);
-    const whatsappUrl = `https://api.whatsapp.com/send?phone=919352286423&text=${encodedText}`;
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=918690661559&text=${encodedText}`;
 
     // Open WhatsApp in new tab
     window.open(whatsappUrl, "_blank");

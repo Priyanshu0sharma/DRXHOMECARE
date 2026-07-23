@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // To receive messages directly to your WhatsApp without opening user's WhatsApp:
       // Replace the WEBHOOK_URL with your Make.com or Zapier webhook address.
-      // Make.com webhook will catch this data and send it directly to your WhatsApp number: 9352286423.
+      // Make.com webhook will catch this data and send it directly to your WhatsApp number: 8690661559.
       const WEBHOOK_URL = ''; // Add your Make.com Webhook URL here
       const successModal = document.getElementById('successModal');
       

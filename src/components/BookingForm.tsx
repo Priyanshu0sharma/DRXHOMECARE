@@ -25,7 +25,7 @@ export default function BookingForm({ defaultService = "General Homecare Inquiry
     const baseText = `Hello DRx Home Care,\n\nI want to book a service:\n*Name:* ${name}\n*Phone:* ${phone}\n*Service:* ${service}`;
     const fullText = message ? `${baseText}\n*Details:* ${message}` : baseText;
     const encodedText = encodeURIComponent(fullText);
-    const whatsappUrl = `https://api.whatsapp.com/send?phone=919352286423&text=${encodedText}`;
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=918690661559&text=${encodedText}`;
 
     // Open WhatsApp in new tab
     window.open(whatsappUrl, "_blank");

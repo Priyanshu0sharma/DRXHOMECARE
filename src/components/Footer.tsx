@@ -15,7 +15,7 @@ export default function Footer() {
             </div>
             <p>Complete I.C.U. Care at Home. Bringing hospital-quality healthcare to your doorstep in Jaipur — 24×7.</p>
             <div className="footer__social">
-              <a href="https://api.whatsapp.com/send?phone=919352286423" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+              <a href="https://api.whatsapp.com/send?phone=918690661559" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
                 <i className="fab fa-whatsapp"></i>
               </a>
               <a href="tel:7568858357" aria-label="Phone">
