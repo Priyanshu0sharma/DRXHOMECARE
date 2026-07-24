@@ -205,7 +205,10 @@ button {
 }
 
 .preloader.fade-content,
-.preloader.slide-up,
+.preloader.slide-up {
+  pointer-events: none;
+}
+
 .preloader.hidden {
   visibility: hidden;
   pointer-events: none !important;

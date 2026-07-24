@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Run interval silently in the background in milliseconds
   const preloaderInterval = setInterval(() => {
-    progress += 25;
+    progress += 20;
     if (progress > 100) progress = 100;
 
     if (progress >= 100) {
@@ -20,19 +20,19 @@ document.addEventListener('DOMContentLoaded', () => {
       // Step 1: Fade out logo and text
       preloader.classList.add('fade-content');
       
-      // Step 2: Slide up vertical panels like stairs from left to right
+      // Step 2: Slide up vertical panels like stairs from bottom to top in parts
       setTimeout(() => {
         preloader.classList.add('slide-up');
         document.body.classList.remove('loading');
-        triggerHeroAnimations();
-      }, 150);
+        if (typeof triggerHeroAnimations === 'function') triggerHeroAnimations();
+      }, 200);
 
       // Step 3: Completely disable preloader overlay when slide ends
       setTimeout(() => {
         preloader.classList.add('hidden');
-      }, 400);
+      }, 900);
     }
-  }, 10);
+  }, 20);
 
   // Failsafe: Ensure preloader never hangs under any conditions
   setTimeout(() => {
@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
       preloader.classList.add('fade-content', 'slide-up', 'hidden');
       document.body.classList.remove('loading');
     }
-  }, 500);
+  }, 1500);
 
   function triggerHeroAnimations() {
     // Animate hero elements that depend on preloader completion

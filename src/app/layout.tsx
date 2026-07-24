@@ -70,6 +70,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Resource Preconnections & Asset Preloading for Instant New Device Load */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
+        <link rel="preload" href="/images/Drx_logo-removebg-preview.png" as="image" />
+
         {/* Load Font Awesome Icon Sets */}
         <link
           rel="stylesheet"
